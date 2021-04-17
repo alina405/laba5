@@ -1,9 +1,7 @@
-p#sn, p#so, p#si{
-  font:italic 12px Verdana, sans-serif;
+a{
+  text-decoration:none;
+  text-align:center;
 }
-p#so{
-  font-size:1.2em;
-}
-p#si{
-  font-style:normal;
+a:hover{
+  text-decoration:underline;
 }
