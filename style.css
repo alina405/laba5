@@ -1,5 +1,6 @@
 body{
-  background-image:url(picture.gif);
+  background-image:url(https://www.imgonline.com.ua/examples/bee-on-daisy.jpg);
+background-repeat:repeat-x;
   background-color:#243CED;
   color:yellow;
 }
